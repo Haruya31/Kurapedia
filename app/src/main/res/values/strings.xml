@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Kurapedia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="kura1deskripsi">
+        \tKura-Kura Brazil yang berasal dari bagian selatan Amerika Serikat memiliki warna hijau tua dengan garis-garis kuning dan memiliki bercak merah pada setiap sisi di kepalanya. Kura-kura ini dapat mudah dibedakan oleh rahang bawahnya yang lebih bulat dibanding jenis pseudemys yang lebih kotak. Jari-jari kaki belakangnya dihubungkan oleh selaput seperti bebek karena mereka hewan air. untuk membedakan jenis kelamin, Jantan memiliki cakar yang lebih panjang di kaki depannya. sedangkan kloaka pada betina lebih dekat ke tempurungnya daripada jantan.\n\n
+        \tDaya tahan kura-kura brazil yang kuat membuat kura-kura mudah beradaptasi dengan lingkungan manapun. Umur kura-kura dapat mencapai usia 20 tahun dengan panjang maksimal sekitar 30 cm.
+        \t Daya tahan kura-kura brazil yang kuat membuat kura-kura mudah beradaptasi dengan lingkungan manapun. Umur kura-kura dapat mencapai usia 20 tahun dengan panjang maksimal sekitar 30 cm. Kura-kura Brazil berkembang biak dengan cara bertelur. Jumlahnya bervariasi antara 20 hingga 45 butir tergantung kesuburan dan cuaca. Kura-kura brazil biasanya bertelur sekitar bulan Agustus hingga September menjelang musim hujan. dan untuk menetas dibutuhkan waktu sekitar 3 minggu. Setelah menetas kura-kura brazil akan segera mencari perairan untuk tumbuh dewasa.
+
+    </string>
+
+    <string name="kura2deskripsi">
+        \tKura-kura ini memiliki panjang tubuh mencapai 30 cm. Kepalanya berwarna hitam, memiliki garis kuning di belakang matanya, bagian bawah merah dan berleher pendek.Karapas pipih, lebar, berwarna hitam gelap dan terkadang bercorak totol-totol.Plastron berwarna merah terang hingga merah pucat, pada beberapa individu warna tersebut merata dan terkadang adapula yang tersebar menyerupai pola totol, warna plastron memudar saat usia semakin tua.\n\n
+        Di habitat aslinya hewan ini hidup penuh di dalam air seperti sungai, danau, laguna dan kolam. Kura-kura ini merupakan jenis yang dapat ditemukan di Indonesia bagian timur (Papua) dan sebagian Australia.
+    </string>
+
+    <string name="kura3deskripsi">
+        \tWalaupun bentuk fisik dari Common Snapping Turtle lebih mirip kura-kura pada umumnya, namun sebenarnya mudah dikenali. Mulai dari kerapas/tempurung, kerapasnya berwarna coklat gelap dan hitam. Dan sama seperti sahabatnya, Alligator Snapping Turtle, kura-kura ini memiliki tiga “scute dorsal” juga meskipun tidak sebesar Alligator Snapping Turtle.\n\n
+        \tKemudian kaki-kaki dari Common Snapping Turtle hampir mendekati lehernya. Di kaki-kaki dekat lehernya seperti ada kulit yang terlipat-lipat dan bisa memanjang ketika Common Snapping Turtle berjalan atau ingin meraih sesuatu. Kemudian bentuk fisik Common Snapping Turtle lainnya adalah ekornya yang bergerigi\n\n
+        \tKura-kura yang memiliki nama latin Chelydra serpentina ini memiliki habitat perairan payau dan tawar. Perairan yang disenangi oleh Common Snapping adalah perairan dengan vegetasi yang luas dan dasaran yang berlumpur sehingga memudahkan kura-kura ini dalam berburu ikan kecil. Di alam liarnya, Common Snapping lebih sering menyendiri.Common Snapping Turtle adalah pemakan yang sangat rakus karena dapat melahap mulai dari ikan kecil, ikan besar, amfibi, invertebrata, krustasea, mamalia, vegetasi air, sampai bangkai.
+    </string>
+    <string name="kura4deskripsi">
+        \tBentuk fisik dari Alligator Snapping Turtle sebenarnya mudah dikenali. Dari kepala, kura-kura ini lebih mirip seekor Alligator karena ujung bibirnya yang runcing dan rahang yang kuat. Kemudian di tempurungnya terdapat semacam tiga “scute dorsal” yang berukuran besar dan jumlahnya lumayan banyak (tapi masih bisa dihitung jari). Dan lanjut semakin ke belakang kita akan melihat ekornya yang sangat panjang, jauh lebih panjang dibandingkan dengan kura-kura pada umumnya.\n\n
+        \tWarna Alligator Snapping Turtle yang biasa ditemui adalah abu-abu, krem, coklat, dan hitam. Oh iya, panjang kura-kura Alligator bisa mencapai panjang 80-100 centimeter dengan berat hingga 80-90 kilogram. Bentuk fisik kura-kura Alligator memang menggambarkan betapa prasejarahnya reptil ini hingga bisa beradaptasi sampai sekarang.\n\n
+        \tKura-kura Alligator memiliki penyebaran wilayah yang cukup luas yakni mulai dari perairan Amerika Serikat Tenggara (Texas Timur hingga Florida), Lowa Tenggara, Missouri, Illinois Barat, Tennessee Timur, Kentucky Barat, Indiana Selatan, sampai Kansas Utara dan Tenggara.\n\n
+        \tKura-kura Alligator senang hidup di perairan yang dangkal dan tidak terlalu dalam karena itu akan memudahkannya saat mengambil udara di permukaan air. Biasanya kura-kura ini banyak ditemui di sungai yang terdapat batu-batuan. Ini karena dengan adanya batu-batuan di sekitarnya maka kamuflase (yang merupakan kunci utama dalam berburu) menjadi semakin mirip.\n\n
+        \tAlligator Snapping Turtle memiliki cara berburu yang cukup unik. Jadi kura-kura ini memiliki semacam lidah kecil yang menyerupai cacing, lidah inilah yang selalu bergerak menari-menari sehingga mnarik perhatian ikan-ikan di sekitarnya. Kura-kura Alligator cukup menunggu di tempat sambil membuka mulut dan rahangnya lebar-lebar agar dapat berkamuflase layaknya batu biasa. Dan ketika si ikan sudah berada tepat di dekat lidah tersebut, kura-kura Alligator dengan cepat langsung menggigit si ikan dengan rahangnya yang sangat kuat.Dengan cara berburu yang seperti itu, kura-kura yang memiliki nama latin Macrochelys temminckii ini dijuluki sebagai kura-kura pemancing. Jadi diam di tempat sambil melakukan sesuatu yang menarik perhatian (dalam kasus ini, menggunakan lidah kecil yang menyerupai cacing), dan menunggu mangsa tertarik oleh tipuannya. Sungguh dramatis dan menarik.
+
+    </string>
+    <string name="kura5deskripsi">
+        \tKura-kura ini memiliki kepala berwarna hitam dengan 3 garis-garis kuning yang sangat khas. Yang pertama pada sekeliling tepi kepala di atas mata, kemudian yang kedua pada pipi, dan yang ketiga pada bibirnya.Kemudian ada yang unik lagi nih dari kura-kura Ambon. Apa itu? Ternyata plastron (tempurung perut) dari kura-kura ini bisa ditekuk berdasarkan garis melintang. Tidak sampai di situ, kepala serta tungkainya pun bisa disembunyikan. Hal inilah yang membuatnya mampu berlindung dari serangan-serangan predator.\n\n
+        \tKuya Batok ini menyebar mulai dari Indonesia, Thailand, Myanmar, Laos, Vietnam, Malaysia, Singapura, hingga Filipina.Tapi beberapa juga ada yang dapat ditemukan di India Timur, Cina, Sri Lanka, dan juga Bangladesh. Jadi jangan kamu kira bahwa kura-kura ini hanya berasal dari Ambon ya. Mereka juga tersebar di beberapa tempat di sekitar Indonesia, tepatnya Asia Tenggara.\n\n
+        \tHabitat kura-kura Ambon berada di daerah lahan basah, seringkali ditemui di sungai besar maupun kecil, rawa-rawa, dan bahkan sawah. Nah maka dari itu perlu kamu ketahui bahwa kura-kura Ambon bukanlah kura-kura darat, mereka juga masih butuh air untuk berendam.\n\n
+        \tMakanan kura-kura Ambon cukup bervariatif mulai dari pelet, cacing darah, ikan, krustasea (udang-udangan), dan bahkan beberapa tumbuhan air. Bisa dibilang kura-kura ini termasuk omnivora alias pemakan segala.
+
+    </string>
+    <string name="kura6deskripsi">
+        \tKura-kura yang biasa hidup di air tawar; di sungai besar atau kecil yang mengalir lambat. Panjang tempurungnya (karapas) mencapai 240 mm, dengan lima buah keping sisik vertebral di tengah punggungnya. Keping-keping vertebral ini memiliki lunas (tonjolan memanjang), namun lunas ini cenderung menghilang setelah dewasa.Lehernya dengan garis-garis memanjang, kekuningan atau kemerahan. Keping-keping sisik pada plastron (penutup dada dan perut) dengan coretan-coretan radial berwarna kehitaman, tebal atau tipis sampai kabur.\n\n
+        \tKura-kura ini menyebar sejak India bagian utara, Bangladesh, Burma, Cina, Kamboja, Vietnam, Thailand, Semenanjung Malaya, Indonesia dan Filipina. Di Indonesia didapati di Mentawai, Sumatra, Kalimantan, Jawa, dan Bali.\n\n
+        \tMereka adalah hewan omnivora. Di alam liar, mereka memakan beberapa jenis serangga seperti jangkrik dan belalang, lalu beberapa molusca. Namun, mereka juga tidak menolak buah-buahan dan sayur-sayuran
+    </string>
+    <string name="kura7deskripsi">
+        \tKura-kura ini memiliki kepala rahang yang kuat kalau dilihat dari penampakkannya. Untuk yang dewasa biasanya berwarna cokelat atau hitam, sedangkan yang remaja berbintik-bintik gelap dengan garis pucat memanjang dari mulut sampai ke belakang kepala.Kura-kura Byuku memiliki kerapas berbentuk oval dan halus kehitaman atau cokelat tua. Pada kura-kura Byuku dewasa, karapasnya lebih datar dan halus, sedangkan karapas remaja lebih bundar dan bergerigi. Nah jika berbicara mengenai ukuran tubuh, kerapa kura-kura ini dapat mencapai panjang hingga 80 cm dengan berat 50 kg.\n\n
+        \tKura-kura Byuku menyebar di Indonesia dan Malaysia. Beberapa sumber lain ada yang menyebut secara spesifik yaitu di Kalimantan.Kura-kura ini biasnaya mendiami danau besar, rawa, dan sungai yang berarus lambat.
+    </string>
+    <string name="kura8deskripsi">
+        \tKura-kura bertubuh sedang, panjang karapas hingga 700 mm. Lubang hidung terletak di ujung moncong yang agak mancung ke atas. Rahang atas bergerigi. Kulit di belakang kepala bersisik kecil-kecil. Kaki dengan empat cakar, dengan selaput penuh di antara jari-jari.Punggung berwarna abu-abu muda atau cokelat muda kehijau-hijauan sampai hitam. Hewan jantan yang dalam masa berahi, cangkang punggungnya berwarna hitam; juga kepala dan kaki depannya.Bagian perut polos tidak bebercak atau bergaris.\n\n
+        \tKura-kura ini menghuni wilayah perairan payau dan jarang naik ke darat,tinggal di ekosistem mangrove, namun memilih pasir tepian sungai yang lebih tawar airnya (salinitas lebih rendah) sebagai tempatnya bertelur
+    </string>
+    <string name="kura9deskripsi">
+        \tKura-kura Duri atau Matahari ini memiliki keping marginal (keping paling tepi karapas) yang bergerigi atau meruncing membentuk duri-duri. Meskipun duri-duri ini akan semakin menghilang seiring dengan usianya yang semakin dewasa. Ciri-ciri lainnya dari Kura-kura Berduri atau Kura-kura Matahari (Heosemys spinosa) adalah terdapatnya ‘keel’ (lunas) yang tajam di bagian tengah karapas (keping vertebral). Lunas juga kadang tumbuh di antara keping marginal dan keping vertebral.Ukuran karapas Kura-kura Duri (Spiny Turtle) dewasa antara 17,5-22 cm. Berat tubuhnya berkisar antara 1,5-2 kg. Karapas berwarna coklat dengan garis pucat ke bagian tengah ‘keel’. Kepala berwarna coklat kehitaman, dengan garis berwarna merah di bagian tepinya yang terlihat samar. Tungkainya memiliki sisik yang tebal berwarna kemerahan.\n\n
+        \tKura-kura Berduri (Heosemys spinosa) adalah hewan asli Indonesia. Daerah sebarannya meliputi Indonesia, Malaysia, Singapura, Brunei Darussalam, Filipina, dan Thailand. Di Indonesia bisa dijumpai di Sumatera, Kalimantan, dan pulau-pulau kecil di sekitarnya termasuk kepulauan Bangka Belitung, Kepulauan Riau, Kepulaua Natuna, dan beberapa pulau di Nias.\n\n
+        \tKura-kura ini adalah hewan semi-akuatik. Sering juga naik ke daratan dan bersembunyi di bawah sisa-sisa tanaman atau rumpun rumput. Habitatnya adalah sungai-sungai kecil dan dangkal yang terdapat di hutan hujan tropis dataran rendah hingga ketinggian 900 meter dpl.\n\n
+        \tKura-kura Duri adalah herbivora. Memakan buah-buahan yang jatuh dari pohon dan vegetasi lainnya. Meskipun terkadang juga memakan beberapa jenis invertebrata
+    </string>
+    <string name="kura10deskripsi">
+        \tSpesies ini memiliki bentuk yang unik: berukuran kecil, kepala menyerupai ular, dan sisi karapas (tempurung) yang melengkung ke atas.Tidak seperti kura-kura umumnya, kura-kura leher ular ini tidak mampu menarik masuk kepalanya hingga ke dalam tempurung, karena lehernya yang panjang. Untuk melindungi bagian leher dan kepalanya itu, ia hanya melipat lehernya menyamping di bawah sisi bagian terluar tempurung. Panjang tempurung ini sendiri dapat mencapai 18 – 24 cm dengan warna coklat keabu-abuan atau kadang coklat kemerahan.\n\n
+        \tKura kura leher ular ini tinggal di rawa, danau, dan sawah di selatan Pulau Rote. Spesies ini seringkali diperdagangkan oleh para kolektor reptil endemik internasional. Sehingga lebih sering ditemukan di penangkaran dibandingkan habitat aslinya. Setidaknya, hingga awal 1970-an, kura-kura ini mudah ditemukan di seantero Pulau Rote, seperti di sawah, kubangan, sungai, selokan, atau di sepanjang danau danau kecil di sana.\n\n
+        \tHambatan yang di hadapi dalam perkembangbiakannya adalah masalah reproduksi yang harus menunggu hingga umur 6 tahun untuk bisa bertelur. Serta sulitnya pakan yang sehat dan segar ditemukan di habitatnya. Setiap kali bertelur jumlahnya 8-14 butir yang dapat dilakukan tiga kali setahun. Ukuran telur sekitar 30 x 20 mm yang beratnya mencapai 8 – 10 gram.Tukik akan menetas setelah tiga bulan pengeraman di alam. Ketika menetas, ukurannya sekitar 28 x 20 mm. Selama periode pertumbuhan, warna tukik yang awalnya pucat menjadi abu-abu kecoklatan/kemerahan kala beranjak dewasa.
+
+
+    </string>
+    <string-array name="array_kura">
+        <item>Brazil</item>
+        <item>Dada Merah</item>
+        <item>Common Sniping Turtle</item>
+        <item>Alligator Sniping Turtle</item>
+        <item>Kuya Batok</item>
+        <item>Daun</item>
+        <item>Byuku</item>
+        <item>Tuntong Sungai</item>
+        <item>Matahari</item>
+        <item>Leher Panjang</item>
+    </string-array>
+</resources>
